@@ -1,0 +1,241 @@
+Proyecto Primer parcial 
+Grupo #2
+Integrantes:
+DANIEL SANTIAGO SALGADO PINTO
+JAIRO ALEJANDRO SIERRA FLORES
+MIGUEL ANGEL FLORES RAMOS
+RENATO DAVID LIZARDO VARELA
+
+%Paso 1
+aula(nh101, 50,10).
+aula(nh201, 50,10).
+aula(nh301, 50,10).
+aula(m2001, 30,5).
+aula(etaa2, 30,5).
+aula(etb101, 20, 5).
+aula(hkd101, 80, 10).
+aula(edi2056, 43,5).
+aula(edi301, 32,11).
+aula(me101, 51,20).
+aula(dsdw309, 53,13).
+aula(hq201, 54,5).
+aula(poli200, 844,5).
+aula(exp201, 43, 10).
+aula(erfe505, 54, 11).
+aula(eras501, 76, 12).
+aula(clas708, 43, 10).
+aula(clase607, 54, 11).
+aula(engs306, 43, 10).
+aula(edp606, 23,11).
+aula(eras501, 76, 12).
+aula(gdsa234,50,13).
+aula(gdsa234,50,13).
+aula(dsd231,50,13).
+aula(sds123,51,34).
+aula(ter134, 90,20).
+aula(ada132, 50, 6).
+aula(asd123,60, 0).
+aula(asd312,50,10).
+aula(dbv343,50,10).
+aula(sdy345,51,43).
+aula(ckv100, 844,5).
+aula(vcb202, 43, 10).
+aula(nakd506, 54, 11).
+aula(nasd509, 76, 12).
+aula(ddl230, 43, 10).
+aula(ele405, 54, 11).
+aula(dsk101, 43, 10).
+aula(ker103, 23,11).
+aula(bel109, 76, 12).
+aula(nbyt987,50,13).
+aula(dfs909,50,13).
+aula(szs190,50,13).
+aula(blo213,51,34).
+aula(byt806, 90,20).
+aula(gres704, 50, 6).
+aula(brf654,60, 0).
+aula(lll876,50,10).
+aula(bte302,50,10).
+aula(snk901,51,43).
+estudiante(2000100001,1,[math101, phys201, ec201]).
+estudiante(2000100002,1,[math101, phys201, hist301]).
+estudiante(2000100003,1,[math101, ec201, hist301]).
+estudiante(2000100004,1,[math101, phys201, ec201, hist301, prg500]).
+estudiante(2000100007,0,[ec201, phys201]).
+estudiante(2000100015,0,[ec201, hist301]).
+estudiante(2000100016,0,[cmpe150, hist301]).
+estudiante(2000100017,0,[]).
+estudiante(2000100008,0,[math101, phys201, eng302]).
+estudiante(2000100009,1,[phys201, ec201, dis402]).
+estudiante(2000100010,0,[cmpe150, math101, qui150]).
+estudiante(2000100012,1,[math101, phys201,fil150]).
+estudiante(2002100009,0,[math101, ec201, hist301]).
+estudiante(2002100071,0,[phys201, ec201, hist301]).
+estudiante(2002100053,0,[cmpe150, ec201, prg500]).
+estudiante(2002100040,1,[math101, hist301]).
+estudiante(2002100032,0,[phys201, ec201]).
+estudiante(2002100010,0,[cmpe150,cpme150]).
+estudiante(2002103010,1,[his2020]).
+estudiante(200210043,1,[cmpe150,cpme150, prg500]).
+estudiante(2002503010,0,[his2020, dis402, fil150]).
+estudiante(1802100010,0,[math101,esp2020, qui150]).
+estudiante(1602103010,0,[his2020, soc400, ec201]).
+estudiante(2002100017,0,[dis401,cpme150]).
+estudiante(2002105010,0,[cmpe150, prg500, fil150]).
+estudiante(1102100010,0,[hist301,cpme150, dis402]).
+estudiante(2002150010,0,[math101, prg500, fil150]).
+estudiante(2002112010,0,[cmpe150, eng302, fil150]).
+estudiante(1102101200,0,[hist301, dis402]).
+estudiante(1402150010,0,[math101, qui150]).
+estudiante(2002105300,0,[]).
+estudiante(1102100010,0,[qui150,cpme150, dis402]).
+estudiante(2002130010,1,[math101, soc400]).
+estudiante(1302100010,0,[esp200,cpme150, dis402]).
+estudiante(2002130210,1,[math101, soc400]).
+estudiante(1102100910,0,[qui150,fil150, dis402]).
+estudiante(2002130020,0,[math101, soc400, dis402]).
+estudiante(1103100010,0,[qui150,cpme150, dis402, prg500]).
+estudiante(2003430010,0,[math101, soc400, his200]).
+estudiante(1802100017,0,[ec201,cpme150, dis402]).
+estudiante(2032130010,1,[math101, soc400, his200]).
+estudiante(1108100010,0,[qui150,cpme150, dis402, prg500]).
+estudiante(2006130010,1,[math101, soc400, phys201]).
+estudiante(1102100380,0,[qui150,math101, dis402]).
+estudiante(4982130010,0,[math101, soc400, phys201]).
+estudiante(11027680010,0,[qui150,eng302, qui150]).
+estudiante(2038230010,0,[]).
+estudiante(1145000010,0,[qui150,cpme150, dis402, phys201]).
+estudiante(2002132510,0,[math101, soc400, fil150]).
+estudiante(1145030010,0,[qui150,cpme150, mer402, phys201]).
+estudiante(2002262510,0,[math101, dis402, fil150]).
+estudiante(1145700010,0,[qui150,cpme150, alg101, phys201]).
+estudiante(2002132600,0,[soc400, soc400, fil150]).
+estudiante(1145003901,0,[prg500,cpme150, dis402, phys201]).
+estudiante(2002132510,0,[math101, soc400, fil150, esp200]).
+estudiante(1145230010,1,[eng302,cpme150, phys201]).
+estudiante(2002132510,0,[cmpe150, soc400, phys201]).
+estudiante(2004500000,0,[dis402,phys201]).
+estudiante(2002135020,0,[qui150, soc400, fil150]).
+estudiante(2004503000,0,[ec201,phys201]).
+estudiante(2008135020,0,[qui150, soc400, fil150, esp200]).
+estudiante(2004528100,0,[dis402,phys201, eng302]).
+estudiante(3502135020,0,[qui150, soc400, fil150, alg101]).
+estudiante(4004500000,1,[dis402,cmpe150, qui150]).
+estudiante(3012135020,0,[qui150, soc400, fil150, mer402]).
+estudiante(3920450000,0,[dis402,phys201, fil150]).
+estudiante(2002135020,0,[qui150, soc400, soc400]).
+estudiante(4004500000,0,[dis402,phys201, prg500]).
+estudiante(2002135020,0,[mer402, soc400, fil150]).
+estudiante(4004500000,0,[dis402,phys201, math101]).
+estudiante(2002135038,0,[esp200, soc400, fil150]).
+estudiante(382450000,0,[dis402,phys201, fil150]).
+estudiante(200213670,0,[mer402, soc400, fil150]).
+estudiante(6004505840,1,[dis402,phys201, ec201]).
+estudiante(8002135020,0,[qui150, soc400, his150]).
+estudiante(5394500000,0,[dis402,phys201, ec201]).
+estudiante(2003920120,0,[math101, soc400, fil150]).
+estudiante(5394504830,0,[eng302,phys201, ec201]).
+estudiante(2003920120,0,[math101, soc400]).
+estudiante(4394504830,0,[eng302,phys201, ec201, esp200]).
+estudiante(2003920520,0,[math101, soc400, mer402]).
+estudiante(5394503830,0,[eng302, phys201, ec201, math101]).
+estudiante(2003920124,0,[math101, soc400, qui150, prg500]).
+estudiante(5400504830,0,[eng302,phys201, ec201, soc400]).
+estudiante(2004620120,1,[prg500, soc400]).
+estudiante(3794504830,0,[his200 ,phys201, ec201]).
+estudiante(2022910120,0,[math101, soc400, mer402]).
+estudiante(5574504830,0,[eng302, phys201, ec201, prg500]).
+estudiante(2003329320,0,[phys201, soc400, fil150]).
+estudiante(2324504830,0,[eng302, qui150, ec201]).
+estudiante(2003920120,0,[math101, soc400, soc400, fil150]).
+estudiante(5394482830,1,[eng302,phys201, ec201]).
+estudiante(1181114569,1,[esp200,fil150,eng302]).
+estudiante(1004305060,0,[math101]).
+estudiante(1002405869,0,[esp200,fil150]).
+estudiante(2000256003,1,[fil150,eng302]).
+estudiante(2004060000,0,[c,dis402]).
+estudiante(2004060345,0,[esp200,soc400,eng302]).
+estudiante(2002040560,0,[ec201,cmpe150,qui150,fil150]).
+estudiante(1934959690,0,[prg500,math101,phys201]).
+estudiante(1000101004,0,[esp200]).
+estudiante(2000459000,1,[fil150,eng302]).
+estudiante(2054580120,0,[prg500,phys201]).
+estudiante(3099090909,0,[esp200,soc400,eng302]).
+estudiante(2059492000,0,[alg101,ec201]).
+estudiante(6034023400,0,[prg500,math101,phys201]).
+estudiante(2240520580,0,[dis402,math101]).
+estudiante(2059409059,1,[mer402]).
+estudiante(1020993920,0,[prg500,phys201]).
+estudiante(2020384830,0,[esp200,eng302]).
+estudiante(2059492000,1,[alg101,ec201]).
+estudiante(5004120020,1,[prg500,math101,phys201,mer402]).
+estudiante(5021230040,0,[dis402,math101,hist301]).
+estudiante(3454656900,0,[mer402]).
+estudiante(2010104000,0,[prg500,phys201,mer402]).
+estudiante(5003240050,1,[prg500,eng302,mer402]).
+estudiante(1001230400,1,[phys201,mer402]).
+estudiante(3000120303,0,[math101,phys201,mer402]).
+estudiante(2020304050,0,[dis402,math101,hist301]).
+estudiante(5050300030,1,[mer402,prg500,eng302]).
+estudiante(10200506070,0,[prg500]).
+estudiante(19087978989,1,[prg500,eng302,mer402,cmpe150,ec201]).
+estudiante(20300302010,1,[phys201,mer402,qui150]).
+estudiante(38585848390,0,[qui150,phys201,mer402]).
+estudiante(60100101010,0,[dis402,math101,hist301]).
+estudiante(30004020200,0,[mer402,prg500,eng302]).
+estudiante(18372378000,0,[prg500,qui150]).
+estudiante(50203000400,1,[qui150,cmpe150,ec201]).
+estudiante(11819197390,0,[phys201,qui150,cmpe150]).
+estudiante(12891239910,0,[qui150,phys201,cmpe150]).
+estudiante(16726766766,0,[dis402,math101,hist301]).
+estudiante(20623004007,0,[mer402,prg500,eng302,ec201]).
+estudiante(20402010230,1,[ec201]).
+estudiante(20410230210,0,[qui150,cmpe150,ec201]).
+estudiante(30404023030,0,[hist301,dis402,cmpe150]).
+estudiante(12300122300,0,[esp200,dis402,cmpe150]).
+estudiante(32021210000,0,[dis402,prg500,math101,hist301]).
+estudiante(11718187270,0,[mer402,prg500,eng302,ec201]).
+estudiante(11820303030,1,[ec201,soc400,cmpe150]).
+estudiante(20000020000,0,[qui150,soc400]).
+fechaexam(cmpe150, ['13.04.2020', '27.08.2019', '03.06.2020']).
+fechaexam(math101, ['14.08.2020', '10.05.2019', '04.05.2020']).
+fechaexam(phys201, ['15.04.2019', '19.05.2020', '05.07.2019']).
+fechaexam(ec201, ['16.04.2020', '21.02.2018', '02.06.2019']).
+fechaexam(hist301, ['13.04.2019', '21.05.2020', '01.06.2019']).
+fechaexam(dis402, ['14.06.2019', '19.04.2019', '03.05.2020']).
+fechaexam(esp200, ['14.08.2019', '02.03.2019', '25.12.2020']).
+fechaexam(eng302, ['03.07.2019', '03.07.2019', '24.12.2019']).
+fechaexam(prg500, ['12.05.2019', '02.04.2019', '20.11.2020']).
+fechaexam(qui150, ['13.09.2019', '04.02.2019', '18.09.2020']).
+fechaexam(soc400, ['14.10.2019', '21.03.2019', '10.08.2021']).
+fechaexam(fil150, ['12.09.2019', '03.04.2019', '15.07.2020']).
+fechaexam(his200, ['12.09.2018', '03.07.2019', '11.07.2021']).
+fechaexam(alg101, ['15.06.2019', '03.01.2019', '15.03.2020']).
+fechaexam(mer402, ['15.02.2018', '03.06.2019', '11.08.2021']).
+
+
+
+%Regla que verifica que algo sea igual
+verificar(X,X).
+%Regla que busca un elemento en una lista
+busquedad(X,[Y|Z]):- verificar(X,Y);busquedad(X,Z).
+%Retorna una lista con las clases que lleva el estudiante
+clases(X, Y):- estudiante(X,_,Y).
+
+%Ejercicio 1
+lista_estudiantes(X, Y):- findall(X1,(clases(Z,T),busquedad(X,T),verificar(Z,X1)), Y).
+
+%Ejercicio 2
+
+lista_fechas(X,Y):- findall(X1,(clases(X,Z),busquedad(T,Z),fechaexam(T,X1)),Y).
+
+%Ejercicio 3
+%Regla que verfica si la clase que pedimos se encuentra en la lista de cursos del alumno
+verificarC(X, [X|_]).
+verificarC(X, [_|Y]):- verificarC(X, Y).
+%Regla que retorna el tamaño de una lista
+tamaño([], 0).
+tamaño([_|X], Y):- tamaño(X, Z), Y is Z + 1.
+%Regla que retorna los estudiantes zurdos
+lista_zurdo(X, Y):- findall(X1, (estudiante(X1,Z,Y1), verificarC(X,Y1), verificar(Z, 1)), Y).
+aulas_adecuadas(X,Y):- findall(X1,(aula(X1,_,Z), lista_zurdo(X,T), tamaño(T,U), U<Z), Y).
